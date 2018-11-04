@@ -20,7 +20,7 @@ In accordance with your Python environment, download and install the dependencie
   >  python -m pip install C:\Your_Saved_Directory\numpy‑1.14.6+mkl‑cp27‑cp27m‑win32.whl
 
   Installation is successfully completed if you see the following message:
-  
+
   > Installing collected packages: numpy  
   > Successsfully installed numpy-1.14.6+mkl  
 
@@ -32,7 +32,7 @@ In accordance with your Python environment, download and install the dependencie
     Installation is successfully completed if you see the following message:
 
     > Installing collected packages: scipy  
-    > Successfully installed scipy-1.1.0
+    > Successfully installed scipy-1.1.0   
 
   2-3. Install Matplotlib  
     Type the following command (replacing "C:\Your_Saved_Directory" with the true directory path) on the Windows command prompt:  
@@ -44,12 +44,13 @@ In accordance with your Python environment, download and install the dependencie
   2-4. Download and install Cython.  
     Download Cython‑0.28.5‑cp27‑cp27m‑win32.whl from ["Unofficial Windows Binaries for Python Extension Packages"(https://www.lfd.uci.edu/~gohlke/pythonlibs/)](https://www.lfd.uci.edu/~gohlke/pythonlibs/) and save it on your PC. If you have other version than Python 2.7, download a appropriate wheel package.  
     Type the following command (replacing "C:\Your_Saved_Directory" with the true directory path) on the Windows command prompt:  
-    >  python -m pip install C:\Your_Saved_Directory\Cython-0.28.5-cp27-cp27m-win32.wh
+
+    >  python -m pip install C:\Your_Saved_Directory\Cython-0.28.5-cp27-cp27m-win32.wh  
 
       Installation is successfully completed if you see the following message:
 
       > Installing collected packages: Cython  
-      > Successfully installed Cython-0.28.5  
+      > Successfully installed Cython-0.28.5   
 
     2-5. Install [molmod](https://github.com/molmod/molmod).  
       Type the following command (replacing "C:\Your_Saved_Directory" with the true directory path) on the Windows command prompt:  
@@ -62,7 +63,8 @@ In accordance with your Python environment, download and install the dependencie
     2-6. Install [TAMkin 1.2.4](https://github.com/molmod/tamkin/releases/tag/1.2.4)  
       The "python -m pip install tamkin" command did not work in my experience. So download [TAMkin 1.2.4](https://files.pythonhosted.org/packages/51/03/4e9e3a050306849da3d20d4142806a6c58ab72763da25f6c85529c505b6a/tamkin-1.2.4.tar.gz), save and expand it with a file expander such as [7-zip](https://www.7-zip.org/).  
       Change the currnet directory to "taamkin-1.2.4" (the directory which contains setup.py) and type the following command (replacing "C:\Your_Saved_Directory" with the true directory path) on the Windows command prompt:
-      > python setup.py install  
+
+      > python setup.py install   
 
 
    3. Testing  
