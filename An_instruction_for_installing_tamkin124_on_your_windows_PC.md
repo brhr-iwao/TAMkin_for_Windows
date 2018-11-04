@@ -73,7 +73,7 @@ In accordance with your Python environment, download and install the dependencie
 
   2-6. Install [TAMkin 1.2.4](https://github.com/molmod/tamkin/releases/tag/1.2.4)  
     The "python -m pip install tamkin" command did not work in my experience. So download [TAMkin 1.2.4](https://files.pythonhosted.org/packages/51/03/4e9e3a050306849da3d20d4142806a6c58ab72763da25f6c85529c505b6a/tamkin-1.2.4.tar.gz), save and expand it with a file expander such as [7-zip](https://www.7-zip.org/).  
-    Change the currnet directory to "taamkin-1.2.4" (the directory which contains setup.py) and type the following command (replacing "C:\Your_Saved_Directory" with the true directory path) on the Windows command prompt:
+    Change the currnet directory to "tamkin-1.2.4" (the directory which contains setup.py) and type the following command (replacing "C:\Your_Saved_Directory" with the true directory path) on the Windows command prompt:
 
       > python setup.py install   
 
