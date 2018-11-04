@@ -34,7 +34,7 @@ In accordance with your Python environment, download and install the dependencie
   >  python -m pip install C:\Your_Saved_Directory\scipy‑1.1.0‑cp27‑cp27m‑win32.whl  
 
 
-    Installation is successfully completed if you see the following message:
+  Installation is successfully completed if you see the following message:
 
     > Installing collected packages: scipy  
     > Successfully installed scipy-1.1.0   
@@ -56,7 +56,7 @@ In accordance with your Python environment, download and install the dependencie
     >  python -m pip install C:\Your_Saved_Directory\Cython-0.28.5-cp27-cp27m-win32.wh  
 
 
-      Installation is successfully completed if you see the following message:
+    Installation is successfully completed if you see the following message:
 
       > Installing collected packages: Cython  
       > Successfully installed Cython-0.28.5   
