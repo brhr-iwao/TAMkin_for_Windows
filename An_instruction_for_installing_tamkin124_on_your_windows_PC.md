@@ -62,8 +62,8 @@ In accordance with your Python environment, download and install the dependencie
       > Successfully installed Cython-0.28.5   
 
 
-    2-5. Install [molmod](https://github.com/molmod/molmod).  
-      Type the following command (replacing "C:\Your_Saved_Directory" with the true directory path) on the Windows command prompt:  
+  2-5. Install [molmod](https://github.com/molmod/molmod).  
+    Type the following command (replacing "C:\Your_Saved_Directory" with the true directory path) on the Windows command prompt:  
 
       >  python -m pip install molmod   
 
@@ -71,9 +71,9 @@ In accordance with your Python environment, download and install the dependencie
     The dependencies, a.k.a. [nose](https://files.pythonhosted.org/packages/99/4f/13fb671119e65c4dce97c60e67d3fd9e6f7f809f2b307e2611f4701205cb/nose-1.3.7-py2-none-any.whl) and [future](https://files.pythonhosted.org/packages/00/2b/8d082ddfed935f3608cc61140df6dcbf0edea1bc3ab52fb6c29ae3e81e85/future-0.16.0.tar.gz) will be installed with [molmod](https://files.pythonhosted.org/packages/89/80/6a23f730196ed3ffb478dc3f9ea047913c99091d301cc82f4820ecee095d/molmod-1.4.4.tar.gz).  
       You can install matplotlib on a stand-alone PC after installing these dependencies one by one with "python -m pip install the_wheel_name" commands.  
 
-    2-6. Install [TAMkin 1.2.4](https://github.com/molmod/tamkin/releases/tag/1.2.4)  
-      The "python -m pip install tamkin" command did not work in my experience. So download [TAMkin 1.2.4](https://files.pythonhosted.org/packages/51/03/4e9e3a050306849da3d20d4142806a6c58ab72763da25f6c85529c505b6a/tamkin-1.2.4.tar.gz), save and expand it with a file expander such as [7-zip](https://www.7-zip.org/).  
-      Change the currnet directory to "taamkin-1.2.4" (the directory which contains setup.py) and type the following command (replacing "C:\Your_Saved_Directory" with the true directory path) on the Windows command prompt:
+  2-6. Install [TAMkin 1.2.4](https://github.com/molmod/tamkin/releases/tag/1.2.4)  
+    The "python -m pip install tamkin" command did not work in my experience. So download [TAMkin 1.2.4](https://files.pythonhosted.org/packages/51/03/4e9e3a050306849da3d20d4142806a6c58ab72763da25f6c85529c505b6a/tamkin-1.2.4.tar.gz), save and expand it with a file expander such as [7-zip](https://www.7-zip.org/).  
+    Change the currnet directory to "taamkin-1.2.4" (the directory which contains setup.py) and type the following command (replacing "C:\Your_Saved_Directory" with the true directory path) on the Windows command prompt:
 
       > python setup.py install   
 
