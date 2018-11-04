@@ -31,7 +31,7 @@ In accordance with your Python environment, download and install the dependencie
   Download scipy‑1.1.0‑cp27‑cp27m‑win32.whl from ["Unofficial Windows Binaries for Python Extension Packages"(https://www.lfd.uci.edu/~gohlke/pythonlibs/)](https://www.lfd.uci.edu/~gohlke/pythonlibs/) and save it on your PC. If you have other version than Python 2.7, download a appropriate wheel package.  
   Type the following command (replacing "C:\Your_Saved_Directory" with the true directory path) on the Windows command prompt:  
 
-  >  python -m pip install C:\Your_Saved_Directory\scipy‑1.1.0‑cp27‑cp27m‑win32.whl
+  >  python -m pip install C:\Your_Saved_Directory\scipy‑1.1.0‑cp27‑cp27m‑win32.whl  
 
 
     Installation is successfully completed if you see the following message:
