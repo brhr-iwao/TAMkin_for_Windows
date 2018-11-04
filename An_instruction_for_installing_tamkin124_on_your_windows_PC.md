@@ -20,6 +20,7 @@ In accordance with your Python environment, download and install the dependencie
   >  python -m pip install C:\Your_Saved_Directory\numpy‑1.14.6+mkl‑cp27‑cp27m‑win32.whl
 
   Installation is successfully completed if you see the following message:
+  
   > Installing collected packages: numpy  
   > Successsfully installed numpy-1.14.6+mkl  
 
@@ -29,6 +30,7 @@ In accordance with your Python environment, download and install the dependencie
   >  python -m pip install C:\Your_Saved_Directory\scipy‑1.1.0‑cp27‑cp27m‑win32.whl
 
     Installation is successfully completed if you see the following message:
+
     > Installing collected packages: scipy  
     > Successfully installed scipy-1.1.0
 
@@ -45,11 +47,13 @@ In accordance with your Python environment, download and install the dependencie
     >  python -m pip install C:\Your_Saved_Directory\Cython-0.28.5-cp27-cp27m-win32.wh
 
       Installation is successfully completed if you see the following message:
+
       > Installing collected packages: Cython  
       > Successfully installed Cython-0.28.5  
 
     2-5. Install [molmod](https://github.com/molmod/molmod).  
       Type the following command (replacing "C:\Your_Saved_Directory" with the true directory path) on the Windows command prompt:  
+
       >  python -m pip install molmod   
 
       The dependencies, a.k.a. [nose](https://files.pythonhosted.org/packages/99/4f/13fb671119e65c4dce97c60e67d3fd9e6f7f809f2b307e2611f4701205cb/nose-1.3.7-py2-none-any.whl) and [future](https://files.pythonhosted.org/packages/00/2b/8d082ddfed935f3608cc61140df6dcbf0edea1bc3ab52fb6c29ae3e81e85/future-0.16.0.tar.gz) will be installed with [molmod](https://files.pythonhosted.org/packages/89/80/6a23f730196ed3ffb478dc3f9ea047913c99091d301cc82f4820ecee095d/molmod-1.4.4.tar.gz).  
@@ -63,7 +67,7 @@ In accordance with your Python environment, download and install the dependencie
 
    3. Testing  
    You can test TAMkin with Python scripts in  tankin-1.2.4\tamkin\examples.  
-   For example, change the current directory to "tamkin-1.2.4\tamkin\exaamples\001_ethane\" on the Windows command prompt and execute the following commaand:
+   For example, change the current directory to "tamkin-1.2.4\tamkin\exaamples\001_ethane\" on the Windows command prompt and execute the following command:
    > python thermo.py  
 
    If TAMkin is correctly installed, "partfun.txt" and "thermo.csv" will be generated in this directory.
