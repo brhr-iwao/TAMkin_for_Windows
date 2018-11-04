@@ -9,7 +9,7 @@ Multiple methods are implemented to perform a normal mode analysis (NMA).
 The frequencies from the NMA can be used to construct a molecular partition function to derive thermodynamic and kinetic parameters.
 
 ##### How to use
-Please see [the Release](https://github.com/brhr-iwao/TAMkin\_for\_Windows/releases) for installation and usage of TAMkin-1.0.6. For TAMkin-1.2.4, please see [an instruction for installing TAMkin 1.2.4 on your Windows PC](https://github.com/brhr-iwao/TAMkin_for_Windows/blob/master/An_instruction_for_installing_tamkin124_on_your_windows_PC.md).
+Please see [the Release](https://github.com/brhr-iwao/TAMkin\_for\_Windows/releases) for installation and usage of TAMkin-1.0.6 with Python 2.7. For TAMkin-1.2.4, please see [an instruction for installing TAMkin 1.2.4 on your Windows PC](https://github.com/brhr-iwao/TAMkin_for_Windows/blob/master/An_instruction_for_installing_tamkin124_on_your_windows_PC.md).
 
 ##### Contact
 [Aoyama Iwao](https://github.com/brhr-iwao)
