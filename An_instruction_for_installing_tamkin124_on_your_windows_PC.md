@@ -1,4 +1,4 @@
-#### An instruction for installing TAMkin 1.2.4 on your Windows PC
+### An instruction for installing TAMkin 1.2.4 on your Windows PC
 
 First of all I make a apology for neglect of updating [TAMkin for Windows](https://github.com/brhr-iwao/TAMkin_for_Windows/).
 A reason why is absent of freely available Windows installers of Scipy 0.17.1 and Numpy 1.6.2 or later, which are [TAMkin 1.2.4](https://github.com/molmod/tamkin/releases/tag/1.2.4) dependencies.
@@ -80,7 +80,7 @@ In accordance with your Python environment, download and install the dependencie
 
    3. Testing  
    You can test TAMkin with Python scripts in  tankin-1.2.4\tamkin\examples.  
-   For example, change the current directory to "tamkin-1.2.4\tamkin\exaamples\001_ethane\" on the Windows command prompt and execute the following command:  
+   For example, change the current directory to "tamkin-1.2.4\tamkin\examples\001_ethane\" on the Windows command prompt and execute the following command:  
    > python thermo.py  
 
    If TAMkin is correctly installed, "partfun.txt" and "thermo.csv" will be generated in this directory.  
